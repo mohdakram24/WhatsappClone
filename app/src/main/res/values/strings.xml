@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="default_web_client_id" translatable="false">402135436753-131srvq48hfg944dtviju7eju222n0od.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
